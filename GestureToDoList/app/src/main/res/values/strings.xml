@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">ML Kit Digital Ink Recognition Demo</string>
+    <string name="title_activity_main" translatable="false">ML Kit Digital Ink Recognition Demo</string>
+    <string name="clear" translatable="false">Clear</string>
+    <string name="help_screen_one" >This app supports the following gesture commands.\n\n1. Check Off: Draw a checkmark and then select an item.\n\n2. Remove item: Draw a cross, then select an item.\n\n3. Add: Draw a square to write out your new To-Do.\n\n4. Undo: Draw a \'U\' to undo the last action.\n\n\n Note: This app supports gestures anywhere on the screen. However, they must be single stroke gestures.</string>
+</resources>
